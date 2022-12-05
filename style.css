@@ -1,0 +1,19 @@
+#search {
+    width: 80%;
+    margin: 2px;
+}
+
+button {
+    background-color: green;
+    color: white;
+}
+
+.bar {
+    display: flex;
+    align-content: space-between;
+}
+.container{
+    text-align: center;
+    display: block;
+}
+
